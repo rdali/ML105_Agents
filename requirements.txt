@@ -1,9 +1,13 @@
 # Core dependencies
 boto3>=1.35.0
+pandas
 
 # LangChain - latest versions
 langchain>=1.0.0
 langchain-aws>=1.0.0
 langchain-anthropic>=1.0.0
 langchain-core>=1.0.0
+langgraph
+langgraph_supervisor
+langgraph_swarm
 
